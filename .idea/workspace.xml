@@ -1,31 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b0de0b8-f4ff-4117-8d05-1e47c370d9d1" name="Changes" comment="" />
+    <list default="true" id="3b0de0b8-f4ff-4117-8d05-1e47c370d9d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/ML-TEST1_김규량-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/team1project-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/team1project2KNN-2-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/team1project2KNN-SVC-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/team1project2KNN-SVC2-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/team1project2KNN-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_02/.ipynb_checkpoints/Review-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_02/.ipynb_checkpoints/ex_find_fish_knn-02-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_02/.ipynb_checkpoints/ex_find_fish_knn-03-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_02/.ipynb_checkpoints/ex_find_fish_knn-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_02/.ipynb_checkpoints/ex_iris_knn-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_02/.ipynb_checkpoints/ex_sampling-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_02/.ipynb_checkpoints/김규량_work-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_02/Review.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_02/ex_find_fish_knn-02.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_02/ex_find_fish_knn-03.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_02/ex_find_fish_knn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_02/ex_iris_knn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_02/ex_sampling.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_02/김규량_work.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_03/.ipynb_checkpoints/ex_fish_KNN_Regression-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_03/.ipynb_checkpoints/ex_fish_regression-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_03/ex_fish_KNN_Regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_03/ex_fish_regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_04/.ipynb_checkpoints/ex_multi_LinerRegression-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_04/.ipynb_checkpoints/ex_outlier-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_04/.ipynb_checkpoints/ex_poly_LinearRegression-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_04/ex_multi_LinerRegression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_04/ex_outlier.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_04/ex_poly_LinearRegression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_05/.ipynb_checkpoints/ex_fish_logisticRegression-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_05/.ipynb_checkpoints/ex_logistic_Regression-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_05/.ipynb_checkpoints/ex_ovr-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_05/ex_fish_logisticRegression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_05/ex_logistic_Regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_05/ex_ovr.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_06/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_06/.ipynb_checkpoints/ex_classification_performence-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_06/.ipynb_checkpoints/ex_sgd_regressor-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_06/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_06/ex_classification_performence.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_06/ex_sgd_regressor.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_07/.ipynb_checkpoints/ex_Kfold-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_07/.ipynb_checkpoints/ex_cv_validation-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_07/.ipynb_checkpoints/ex_fish_ridge_lasso-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_07/.ipynb_checkpoints/ex_mnist_classification-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_07/ex_Kfold.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_07/ex_cv_validation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_07/ex_fish_ridge_lasso.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_07/ex_mnist_classification.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_08/.ipynb_checkpoints/ex_svc-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_08/ex_svc.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_09/.ipynb_checkpoints/ex_LightGBM-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_09/.ipynb_checkpoints/ex_XGBoost(eXtra Gradient Boost)-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_09/.ipynb_checkpoints/ex_cancer_classification-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_09/.ipynb_checkpoints/ex_cancer_voting-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_09/.ipynb_checkpoints/ex_gbm-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_09/.ipynb_checkpoints/ex_iris_dt.ipynp-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_09/.ipynb_checkpoints/use_model.py-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_09/ex_LightGBM.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_09/ex_XGBoost(eXtra Gradient Boost).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_09/ex_cancer_classification.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_09/ex_cancer_voting.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_09/ex_gbm.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_09/ex_iris_dt.ipynp.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_09/iris_dt_model.dot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_09/use_model.py.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML-TEST1_김규량.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/HousingData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Sleep_health_and_lifestyle_dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/house_columns.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/activity_labels.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/features.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/features_info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/test/Inertial Signals/body_acc_x_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/test/Inertial Signals/body_acc_y_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/test/Inertial Signals/body_acc_z_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/test/Inertial Signals/body_gyro_x_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/test/Inertial Signals/body_gyro_y_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/test/Inertial Signals/body_gyro_z_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/test/Inertial Signals/total_acc_x_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/test/Inertial Signals/total_acc_y_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/test/Inertial Signals/total_acc_z_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/test/X_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/test/subject_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/test/y_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/train/Inertial Signals/body_acc_x_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/train/Inertial Signals/body_acc_y_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/train/Inertial Signals/body_acc_z_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/train/Inertial Signals/body_gyro_x_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/train/Inertial Signals/body_gyro_y_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/train/Inertial Signals/body_gyro_z_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/train/Inertial Signals/total_acc_x_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/train/Inertial Signals/total_acc_y_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/train/Inertial Signals/total_acc_z_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/train/X_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/train/subject_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/human_activity/train/y_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/iris.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/perch3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/winequality-white.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/iris_dt.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1project.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1project2KNN-2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1project2KNN-SVC.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1project2KNN-SVC2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/team1project2KNN.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/EXAM_ML.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EXAM_ML.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY_01/check_pk.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_01/check_pk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY_01/ex_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_01/ex_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY_01/ex_class_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_01/ex_class_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY_01/ex_find_fish.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_01/ex_find_fish.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2ckGb1eQGkiE4coeXixwbS7sazp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.check_pk.executor": "Run",
+    "Python.ex_class.executor": "Run",
+    "Python.ex_class_02.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/KDP-30/PycharmProjects/EXAM_DL",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
       </set>
     </attachedChunks>
   </component>
@@ -37,7 +178,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708648230810</updated>
+      <workItem from="1710129430048" duration="7000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
